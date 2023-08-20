@@ -45,9 +45,6 @@
           <li><router-link to="/berita"> Berita</router-link></li>
           <li><router-link to="/galeri">Galeri</router-link></li>
           <li>
-            <i class="bi bi-flag-fill" style="color: aliceblue"></i>
-          </li>
-          <li>
             <a
               class="getstarted scrollto"
               href=" http://127.0.0.1:5173/auth/login"
